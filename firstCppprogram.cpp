@@ -6,7 +6,7 @@ int main() {
     int b = 30;
     int c = 40;
     int d = a + b + c;
-    std::cout << "Hello World!" << endl;
+    std::cout << "Nirbhay - VEX V5 Summer Plan" << endl;
     std::cout << d << endl;
     return 0;
 }
